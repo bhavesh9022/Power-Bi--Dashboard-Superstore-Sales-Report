@@ -12,4 +12,11 @@ his repository contains a Power BI project built using the **SuperStore Sales Da
 
 - Power BI Desktop  
 - DAX (Data Analysis Expressions)  
-- Excel (Source Data Cleaning)
+- Excel (Source Data Cleaning)\
+
+  ## 📁 Files
+
+   `SuperStore Sales DataSet.xlsx`: Raw data used for analysis
+- `SuperStore_PowerBI_Dashboard.pbix`: Power BI report file
+
+
